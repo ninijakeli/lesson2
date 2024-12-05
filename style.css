@@ -9,7 +9,7 @@ body{
     height: 200vw;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(image/vangogi.jpg);
+    background-image: url(vangogi.jpg);
 }
 header{
     display: flex;
